@@ -2,6 +2,9 @@ This is the second file.
 good morning
 good evening
 good night
+<<<<<<< HEAD
 This is the new content created.
 This is to update and push the data from local to git repository.
 this is pull
+=======
+>>>>>>> parent of d8dc889 (third commit)
